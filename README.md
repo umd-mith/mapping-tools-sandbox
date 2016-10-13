@@ -1,1 +1,3 @@
-# mapping-tools-sandbox
+# Mapping Tools Sandbox
+
+Just some collaborative-messing-around space
